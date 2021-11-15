@@ -38,3 +38,5 @@ while coding I encountered issues such as receiving data from the remote server 
 
 - [ no] If I disable javascript, the user experience is satisfactory, the user has access to data and content
 - [ok ] If I enable javascript, the tables are enhanced with an interactive graph.
+- ![graph](https://user-images.githubusercontent.com/90928514/141811618-2d64798e-3f9a-4b4b-9c5d-43c33b39f48b.png)
+
